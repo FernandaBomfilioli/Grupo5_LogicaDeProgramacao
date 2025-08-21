@@ -1,4 +1,7 @@
-//Questão 14- Triangulo Retângulo de Altura N                                                                     • Descrição: Desenvolva um algoritmo que solicite um valor inteiro N                                              e imprima uma pirâmide numérica de altura N.
+//Questão 14- Triangulo Retângulo de Altura N
+//• Descrição: Desenvolva um algoritmo que solicite um valor inteiro N
+//e imprima uma pirâmide numérica de altura N.
+
 
 programa {
   funcao inicio() {
