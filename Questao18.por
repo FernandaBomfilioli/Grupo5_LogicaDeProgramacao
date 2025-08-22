@@ -13,6 +13,6 @@ programa {
         }
       }
     }
-    escreva("A soma da diagonal da matriz é: ", soma)
-  }
+    escreva("A soma da diagonal da matriz é: ", soma)
+  }
 }
