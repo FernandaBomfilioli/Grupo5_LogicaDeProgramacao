@@ -30,6 +30,6 @@ programa {
     leia(expoente)
 
     escreva("Potencia = ", potencial(base,expoente))
-    
-  }
+  
+  }
 }
